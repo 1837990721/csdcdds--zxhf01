@@ -3,7 +3,7 @@ name: fhxz
 on:
   workflow_dispatch:
   schedule:
-     - cron: '2 2-16 * * *'
+     - cron: '30 7-23 * * *'
   watch:
     types: book
 
